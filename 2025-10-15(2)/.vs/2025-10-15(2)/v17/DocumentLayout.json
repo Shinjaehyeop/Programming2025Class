@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cju\\Documents\\GitHub\\Programming2025Class\\2025-10-15(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB9D4460-5FFF-4DF8-AAD1-A0D628486599}|Project1\\Project1.vcxproj|C:\\Users\\Cju\\Documents\\GitHub\\Programming2025Class\\2025-10-15(2)\\Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB9D4460-5FFF-4DF8-AAD1-A0D628486599}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Users\\Cju\\Documents\\GitHub\\Programming2025Class\\2025-10-15(2)\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Users\\Cju\\Documents\\GitHub\\Programming2025Class\\2025-10-15(2)\\Project1\\\uC18C\uC2A4.cpp*",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A4.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T00:44:45.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
