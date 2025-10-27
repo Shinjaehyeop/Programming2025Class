@@ -1,0 +1,13 @@
+﻿  소스.cpp
+C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(45,23): error C2440: '=': 'const char [15]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(45,23):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(48,23): error C2440: '=': 'const char [18]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(48,23):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
+C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(51,23): error C2440: '=': 'const char [17]'에서 'char *'(으)로 변환할 수 없습니다.
+      C:\Users\pc\Documents\GitHub\Programming2025Class\레포트2 3번\소스.cpp(51,23):
+      문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  
