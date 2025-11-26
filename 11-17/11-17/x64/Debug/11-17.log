@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Cju\Documents\GitHub\Programming2025Class\11-17\소스.cpp(1,10): error C2006: '#include': "FILENAME" 또는 <FILENAME>이 필요합니다.
+C:\Users\Cju\Documents\GitHub\Programming2025Class\11-17\소스.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. '': No such file or directory
