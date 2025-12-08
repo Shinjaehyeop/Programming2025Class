@@ -45,9 +45,9 @@ int main() {
 
     // 5. 주요 결과 출력
     printf("\n--- 분석 결과 ---\n");
-    printf("총 비행 시간 (Tf): %.2lf s\n", total_flight_time);
-    printf("최대 높이 (Hmax): %.2lf m\n", max_height);
-    printf("수평 도달 거리 (R): %.2lf m\n", range);
+    printf("총 비행 시간 (Tf): %.2lf s\n", total_flight_time); // 수정 완료
+    printf("최대 높이 (Hmax): %.2lf m\n", max_height);      // 수정 완료
+    printf("수평 도달 거리 (R): %.2lf m\n", range);        // 수정 완료
     printf("------------------\n");
 
     // 6. 궤적 시뮬레이션 및 출력 (for 반복문 및 동역학 공식 활용)
@@ -67,7 +67,7 @@ int main() {
             y_pos = 0.0;
         }
 
-        printf("%.1lf\t| %.2lf\t\t| %.2lf\n", time, x_pos, y_pos);
+        printf("%.1lf\t| %.2lf\t\t| %.2lf\n", time, x_pos, y_pos); // 수정 완료
 
         // 지면에 닿은 후 루프 종료 조건
         if (y_pos == 0.0 && time > 0.0) {
